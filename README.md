@@ -7,13 +7,15 @@ This is a web-based application that allows users to create an account, log in, 
 
 #### Features
 User Registration: Users can create a new account by providing a username and password. Upon registration, the user's credentials are securely stored in the database for future authentication.
+
 User Authentication: Registered users can log in to their accounts using their credentials. The application verifies the user's identity by comparing the provided password with the hashed password stored in the database.
+
 Secure Home Page: Authenticated users can access a secure home page after successfully logging in. The home page provides personalized content and features based on the user's preferences and previous interactions.
-Weather Forecasting
+
 Weather Forecasting: Users can forecast the weather for any location by entering the city name in the provided input field. The application utilizes the WeatherAPI to fetch real-time weather data, including temperature, humidity, wind speed, and weather conditions, for the specified location.
-Number Facts Generation
+
 Number Facts Generation: Users can generate interesting facts about numbers by entering any number in the provided input field. The application makes a request to the NumbersAPI to retrieve fascinating information about the specified number, such as mathematical properties, trivia, and historical significance.
-Global News Updates
+
 Global News Updates: Users can stay informed about the latest news and events worldwide by accessing the news section of the application. The application leverages the NewsAPI to fetch news articles from various sources and categories, including top headlines, business, technology, sports, and entertainment.
 
 
