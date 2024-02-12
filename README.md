@@ -3,7 +3,7 @@
 ## Group: SE-2202
 ## Project Documentation: Login and Signup Application
 ### Overview
-This is a web-based application that allows users to create an account, log in, and access a secure home page that can be used to forecast the weather, numbers, and global news. It provides functionalities for user registration, authentication, and session management.
+This is a web-based application that allows users to create an account, log in, and access a secure home page that can be used to forecast the weather, numbers, and global news. It provides functionalities for user registration, authentication, and session management. *ALl the APIs are integrated in one index.js file.
 
 ### Features
 User Registration: Users can create a new account by providing a username and password. Upon registration, the user's credentials are securely stored in the database for future authentication.
