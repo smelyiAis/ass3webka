@@ -18,6 +18,24 @@ Number Facts Generation: Users can generate interesting facts about numbers by e
 
 Global News Updates: Users can stay informed about the latest news and events worldwide by accessing the news section of the application. The application leverages the NewsAPI to fetch news articles from various sources and categories, including top headlines, business, technology, sports, and entertainment.
 
+### List of dependencies:
+npm init -y
+
+npm install request
+
+npm install axios
+
+npm install ejs
+
+npm install express mongoose
+
+npm install mongoose
+
+npm install bcrypt
+
+npm install mongodb
+
+npm install express
 
 ### API Usage Details
 WeatherAPI: Used to fetch weather data based on the user's location. The application sends HTTP requests to the WeatherAPI endpoint with the user's specified city name and API key to retrieve current weather information.
